@@ -1,2 +1,2 @@
 # rockery
-A chinese scene created by Blender
+A chinese garden scene created by Blender
